@@ -1,7 +1,5 @@
 # Sigma
 
-![](logo.png)
-
 Just some bois having arduino fun
 
 ## RGB
